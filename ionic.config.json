@@ -1,0 +1,7 @@
+{
+  "name": "pantryApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
